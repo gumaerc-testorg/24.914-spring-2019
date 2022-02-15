@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/24-914-language-variation-and-change-spring-2019/9b8e1ce4082d94fe1c07182632f37268_MIT24_914S19_Labov.jpg
+file: /media/courses/24-914-language-variation-and-change-spring-2019/9b8e1ce4082d94fe1c07182632f37268_MIT24_914S19_Labov.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
@@ -11,6 +11,10 @@ image_metadata:
     n, theta, s, and esh, representing the consonants causing tensing of previous
     /ae/ in New York City, and a dotted line surrounding m, n, theta, s, and esh,
     representing the consonants causing tensing in Philadelphia dialect. '
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: "Short Paper 1: What is /\xE6/-tensing?"
+parent_type: CourseSection
 resourcetype: Image
 title: Figure 4 in Labov (1981), "Resolving the Neogrammarian controversy"
 uid: 9b8e1ce4-082d-94fe-1c07-182632f37268
