@@ -15,6 +15,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: "Short Paper 1: What is /\xE6/-tensing?"
 parent_type: CourseSection
+parent_uid: e4d20a86-179f-459c-2c2c-3321342d0a2c
 resourcetype: Image
 title: Figure 4 in Labov (1981), "Resolving the Neogrammarian controversy"
 uid: 9b8e1ce4-082d-94fe-1c07-182632f37268

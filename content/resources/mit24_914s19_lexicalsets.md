@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: '"Your vowels" exercise'
 parent_type: CourseSection
+parent_uid: e4f669db-18c9-fda6-9155-7493b164bcc3
 resourcetype: Document
 title: Wells Lexical Sets
 uid: 4eb09080-f122-72fd-13de-61acf7eb1397

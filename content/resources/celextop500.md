@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Additional Resources
 parent_type: CourseSection
+parent_uid: 5342f6c4-5fd0-9625-1f79-74942566ca34
 resourcetype: Other
 title: CELEX Top 500 Verbs
 uid: ea4491df-6091-4278-551c-6a9e9c5bc3d0
