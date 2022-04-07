@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
+parent_uid: null
 title: Assignments
 uid: dd6efe84-262f-6ded-affb-a7350fedfee8
 ---
@@ -22,7 +23,7 @@ Due Dates
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Phonetic transcription exercise]({{< baseurl >}}/pages/assignments/phonetic-transcription-exercise)
+{{< resource_link b39c2a9e-c4a4-d1d2-9c8a-3d8353d22222 "Phonetic transcription exercise" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 Session 4
@@ -31,7 +32,7 @@ Session 4
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-["Your Vowels" exercise]({{< baseurl >}}/pages/assignments/your-vowels-exercise)
+{{< resource_link e4f669db-18c9-fda6-9155-7493b164bcc3 "\"Your Vowels\" exercise" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 Session 5
@@ -40,7 +41,7 @@ Session 5
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Short paper 1: What is /æ/-tensing?]({{< baseurl >}}/pages/assignments/what-is-ae-tensing)
+{{< resource_link e4d20a86-179f-459c-2c2c-3321342d0a2c "Short paper 1: What is /æ/-tensing?" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 Session 8
@@ -49,7 +50,7 @@ Session 8
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Short paper 2: Lexical diffusion]({{< baseurl >}}/pages/assignments/short-paper-2-lexical-diffusion)
+{{< resource_link 3e85ec97-f689-6310-5ece-d6d4dd022b31 "Short paper 2: Lexical diffusion" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 Session 12
@@ -67,7 +68,7 @@ Session 13
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Short paper 3: Computational models of sound change]({{< baseurl >}}/pages/assignments/short-paper-3-computational-models-of-sound-change)
+{{< resource_link cb96fded-cade-ab94-cf79-bcf7e33437b5 "Short paper 3: Computational models of sound change" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 Session 17
@@ -85,7 +86,7 @@ Session 21
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Final paper]({{< baseurl >}}/pages/assignments/final-paper)
+{{< resource_link 99015293-0386-5d08-736b-7bd5c4312d0f "Final paper" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 Session 26

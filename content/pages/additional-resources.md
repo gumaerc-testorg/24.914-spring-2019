@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types: []
 ocw_type: CourseSection
+parent_uid: null
 title: Additional Resources
 uid: 5342f6c4-5fd0-9625-1f79-74942566ca34
 ---
@@ -30,8 +31,8 @@ uid: 5342f6c4-5fd0-9625-1f79-74942566ca34
 
 ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Key to DISC transcriptions in CELEX (PDF)](http://groups.linguistics.northwestern.edu/speech_comm_group/documents/CELEX/Phonetic%20codes%20for%20CELEX.pdf)
 
-[English lemmas in CELEX (TXT)]({{< baseurl >}}/resources/celexlemmasintranscription-disc)
+[English lemmas in CELEX (TXT)](./resolveuid/8a6470ebb4308a0cc874f73fe24d7b61)
 
 [Google Ngram Viewer](https://books.google.com/ngrams)
 
-[500 most frequent verbs of English (XLS)]({{< baseurl >}}/resources/celextop500)
+{{< resource_link ea4491df-6091-4278-551c-6a9e9c5bc3d0 "500 most frequent verbs of English (XLS)" >}}
