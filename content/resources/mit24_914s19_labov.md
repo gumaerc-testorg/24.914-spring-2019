@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/24-914-language-variation-and-change-spring-2019/9b8e1ce4082d94fe1c07182632f37268_MIT24_914S19_Labov.jpg
+file: /courses/24-914-language-variation-and-change-spring-2019/9b8e1ce4082d94fe1c07182632f37268_MIT24_914S19_Labov.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
@@ -19,4 +19,6 @@ parent_uid: e4d20a86-179f-459c-2c2c-3321342d0a2c
 resourcetype: Image
 title: Figure 4 in Labov (1981), "Resolving the Neogrammarian controversy"
 uid: 9b8e1ce4-082d-94fe-1c07-182632f37268
+video_metadata:
+  youtube_id: null
 ---

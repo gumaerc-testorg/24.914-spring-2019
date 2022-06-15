@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/24-914-language-variation-and-change-spring-2019/ea4491df60914278551c6a9e9c5bc3d0_CELEXTop500.xls
+file: /courses/24-914-language-variation-and-change-spring-2019/ea4491df60914278551c6a9e9c5bc3d0_CELEXTop500.xls
 file_type: application/vnd.ms-excel
 learning_resource_types: []
 ocw_type: OCWFile
@@ -11,4 +11,6 @@ parent_uid: 5342f6c4-5fd0-9625-1f79-74942566ca34
 resourcetype: Other
 title: CELEX Top 500 Verbs
 uid: ea4491df-6091-4278-551c-6a9e9c5bc3d0
+video_metadata:
+  youtube_id: null
 ---
