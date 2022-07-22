@@ -12,6 +12,7 @@ image_metadata:
     /ae/ in New York City, and a dotted line surrounding m, n, theta, s, and esh,
     representing the consonants causing tensing in Philadelphia dialect. '
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: "Short Paper 1: What is /\xE6/-tensing?"
 parent_type: CourseSection
