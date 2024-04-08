@@ -20,7 +20,7 @@ A series of sound changes that have lead to some US English TRAP vowels correspo
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}} {{< thclose >}}{{< thopen >}}US{{< thclose >}}{{< thopen >}}RP{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}mass{{< tdclose >}}{{< tdopen >}}mæs{{< tdclose >}}{{< tdopen >}}mæs{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}pass{{< tdclose >}}{{< tdopen >}}pʰæs{{< tdclose >}}{{< tdopen >}}pʰɑːs{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}ant{{< tdclose >}}{{< tdopen >}}ænt{{< tdclose >}}{{< tdopen >}}ænt{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}grant{{< tdclose >}}{{< tdopen >}}ɡɹænt{{< tdclose >}}{{< tdopen >}}ɡɹɑːnt{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}asp{{< tdclose >}}{{< tdopen >}}æsp{{< tdclose >}}{{< tdopen >}}æsp{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}clasp{{< tdclose >}}{{< tdopen >}}kʰlæsp{{< tdclose >}}{{< tdopen >}}kʰlɑsp{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
-Wells (1982) argues that these irregular correspondences are the result of a vowel lengthening change that was diffusing through the lexicon, but stopped before it affected all the words containing vowels in the relevant contexts. There are more data on this [Wikipedia page](http://en.wikipedia.org/wiki/Phonological_history_of_English_short_A#Trap.E2.80.93bath_split_in_Received_Pronunciation) and on this [website at the British Library](http://www.bl.uk/learning/langlit/sounds/changingvoices/phonological-change/trap-bath-split/).
+Wells (1982) argues that these irregular correspondences are the result of a vowel lengthening change that was diffusing through the lexicon, but stopped before it affected all the words containing vowels in the relevant contexts. There are more data on this {{% resource_link "b50fd54f-5ea8-4fea-976b-9f0d60309558" "Wikipedia page" %}} and on this {{% resource_link "fbb8e526-c5c6-4cbc-9c76-4713a275a2f9" "website at the British Library" %}}.
 
 ### 2\. LOT-CLOTH split
 
@@ -30,7 +30,7 @@ In US English, some Middle English short ‘o’ vowels have developed into the 
 
 The ɒ > ɔ change seems to have applied more or less regularly before word-final fricatives, but seems to be irregular before medial fricatives (e.g. _foster_, but not _roster_), and has been extended in some dialects to apply before some voiced velar stops and nasals (_dog_, _long_), and a few alveolar nasals (usually just _on_, _gone_). So this change looks like a possible example of lexical diffusion.
 
-There are more data on this \[Wikipedia page\]([https://en.wikipedia.org/wiki/Phonological_history_of_English_low_back_vowels#LOT%E2%8](https://en.wikipedia.org/wiki/Phonological_history_of_English_low_back_vowels#LOT%E2%8) 0%93CLOTH\_split). (Don’t take it on trust—it’s Wikipedia—but it’s a good starting place).
+There are more data on this \[Wikipedia page\]({{% resource_link "2833c4a5-2c2b-46f2-9de4-edcb1935adf9" "https://en.wikipedia.org/wiki/Phonological_history_of_English_low_back_vowels#LOT%E2%8" %}} 0%93CLOTH\_split). (Don’t take it on trust—it’s Wikipedia—but it’s a good starting place).
 
 It will be important to check etymologies of words—the sound change of interest involves Middle English short ‘o’ > \[ɔ\], but thought \[ɔ\] has many other sources. Spelling provides some indication of etymology, but it’s not a perfect guide.
 
@@ -77,8 +77,8 @@ For each sound change, I have some short readings and lists of relevant words, m
 
 ## Dictionaries
 
-- [Oxford English Dictionary (OED)](https://www.oed.com/) \[subscription required\]
-- [American Heritage Dictionary](https://www.ahdictionary.com/)
+- {{% resource_link "a1e47283-a309-4430-b60f-562dc8664274" "Oxford English Dictionary (OED)" %}} \[subscription required\]
+- {{% resource_link "139b5676-6320-421b-b68f-5d07a75a1a91" "American Heritage Dictionary" %}}
 
 The OED records UK and US pronunciations. The UK pronunciations are mostly RP English (e.g. they show the trap-bath split). The US pronunciations include those exemplifying the LOT-CLOTH split. The American Heritage Dictionary reports US pronunciation.
 
@@ -88,6 +88,6 @@ The OED also contains dates of first recorded uses of words.
 
 ## Word frequency information
 
-Use the spoken part of the [American National Corpus](http://www.anc.org/data/anc-second-release/frequency-data/).
+Use the spoken part of the {{% resource_link "aaa0ed15-ca9a-46ee-8a1c-13c44cffbba2" "American National Corpus" %}}.
 
 Recordings and acoustic analysis—talk to me if you’d like help making a recording in phonetics lab.
