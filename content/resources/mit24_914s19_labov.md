@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/24-914-language-variation-and-change-spring-2019/9b8e1ce4082d94fe1c07182632f37268_MIT24_914S19_Labov.jpg
+file_size: 26763
 file_type: image/jpeg
 image_metadata:
   caption: ''
