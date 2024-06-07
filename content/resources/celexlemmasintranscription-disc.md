@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/24-914-language-variation-and-change-spring-2019/8a6470ebb4308a0cc874f73fe24d7b61_CelexLemmasInTranscription-DISC.txt
+file_size: 976854
 file_type: text/plain
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
