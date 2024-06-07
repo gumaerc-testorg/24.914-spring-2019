@@ -40,4 +40,4 @@ Implement and test a model of some aspect of sound change.
 
 ### Syntactic change
 
-Identify a recent syntactic change. Come up with analyses of the ‘before’ and ‘after’ grammars, and propose/test hypotheses concerning the mechanism for getting from one to the other (e.g. reinterpretation of ambiguous input). A candidate change: The recent rise in double ‘is’ constructions, as in ‘The funny thing is is that Lisa was there too.’ See the Yale Grammatical Diversity Project's {{% resource_link "858c430f-0ae3-4add-8952-3a9469dea65c" "\"Double _is_\"" %}} for more information.
+Identify a recent syntactic change. Come up with analyses of the ‘before’ and ‘after’ grammars, and propose/test hypotheses concerning the mechanism for getting from one to the other (e.g. reinterpretation of ambiguous input). A candidate change: The recent rise in double ‘is’ constructions, as in ‘The funny thing is is that Lisa was there too.’ See the Yale Grammatical Diversity Project's ["Double _is_"](https://ygdp.yale.edu/phenomena/double-is) for more information.
