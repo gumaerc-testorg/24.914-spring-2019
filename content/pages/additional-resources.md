@@ -1,6 +1,7 @@
 ---
 content_type: page
 description: A list of links to useful linguistic resources on the internet.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Additional Resources
@@ -8,7 +9,6 @@ uid: 5342f6c4-5fd0-9625-1f79-74942566ca34
 video_metadata:
   youtube_id: null
 ---
-
 [A National Map of the Regional Dialects of American English](https://www.ling.upenn.edu/phono_atlas/NationalMap/NationalMap.html) 
 
 [PhillyTawk: Overview of mid-Atlantic English, Part 1 (YouTube)](https://www.youtube.com/watch?v=yq9NBJ0sG48)
@@ -23,7 +23,7 @@ video_metadata:
 
 [Full International Phonetic Alphabet (IPA) chart](https://www.internationalphoneticassociation.org/content/full-ipa-chart)
 
-[IPA chart with recordings](http://web.uvic.ca/ling/resources/ipa/charts/IPAlab/IPAlab.htm)
+[IPA chart with recordings](https://www.internationalphoneticassociation.org/IPAcharts/inter_chart_2018/IPA_2018.html)
 
 [IPA Unicode keyboards](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=UniIPAKeyboard)
 
@@ -37,4 +37,4 @@ video_metadata:
 
 [Google Ngram Viewer](https://books.google.com/ngrams)
 
-{{% resource_link ea4491df-6091-4278-551c-6a9e9c5bc3d0 "500 most frequent verbs of English (XLS)" %}}
+{{% resource_link "ea4491df-6091-4278-551c-6a9e9c5bc3d0" "500 most frequent verbs of English (XLS)" %}}
