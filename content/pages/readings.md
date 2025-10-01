@@ -11,15 +11,15 @@ video_metadata:
   youtube_id: null
 ---
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262518499) Campbell, L. (2013). _Historical Linguistics: An Introduction_, 3rd Edition. MIT Press. ISBN: 9780262518499.
+{{% resource_link "398a5fda-f7a3-43cf-859b-bb4f3585ef0b" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Campbell, L. (2013). _Historical Linguistics: An Introduction_, 3rd Edition. MIT Press. ISBN: 9780262518499.
 
 Guy, G. (1980). Variation in the group and the individual: the case of final stop deletion. In W. Labov (ed.), _Locating Language in Time and Space_. Academic Press. 1–36. ISBN: 9780124321014.
 
-Harrington, J., Palethorpe, S., and Watson, C. (2000). [Monophthongal vowel changes in Received Pronunciation: an acoustic analysis of the Queen’s Christmas Broadcasts (PDF - 2.3 MB)](https://www.phonetik.uni-muenchen.de/~jmh/papers/harrington00.jipa.pdf). _Journal of the International Phonetic Association_, 63–78.
+Harrington, J., Palethorpe, S., and Watson, C. (2000). {{% resource_link "04a21aec-da59-47c3-a948-a1e95a438a6a" "Monophthongal vowel changes in Received Pronunciation: an acoustic analysis of the Queen’s Christmas Broadcasts (PDF - 2.3 MB)" %}}. _Journal of the International Phonetic Association_, 63–78.
 
-Labov, W. (1963). [The social motivation of a sound change (PDF)](https://www.cs.indiana.edu/~port/HDphonol/Labov.socl.motvn.snd.change.Word1963.pdf). _Word_ 19, 273–309.
+Labov, W. (1963). {{% resource_link "e037b66b-0dc5-44d2-b8f6-5c2909aca662" "The social motivation of a sound change (PDF)" %}}. _Word_ 19, 273–309.
 
-Labov, W. (1981). [Resolving the neogrammarian controversy (PDF - 9.1 MB)](https://msu.edu/course/lin/225/snapshot.afs/Articles%20for%20lab/Labov-1981-Neogram.pdf). _Language_ 57, 267–308.
+Labov, W. (1981). {{% resource_link "679350ee-6dbb-41f9-b3a2-9a6dfa465074" "Resolving the neogrammarian controversy (PDF - 9.1 MB)" %}}. _Language_ 57, 267–308.
 
 Labov, W. (1994). _Principles of Linguistic Change: Internal factors_. Blackwell. ISBN: 9780631179146.
 
@@ -27,11 +27,11 @@ Labov, W. (2010). _Principles of Linguistic Change: Cognitive and Cultural Facto
 
 Ladefoged, P.N. (2001). _A Course in Phonetics_. Heinle & Heinle. ISBN: 9780155073197.
 
-Ohala, J.J. (1981). [The listener as a source of sound change (PDF - 1 MB)](http://linguistics.berkeley.edu/~ohala/papers/listener_as_source.pdf). In C. S. Masek, R. A. Hendrick, & M. F. Miller (eds.), _Papers from the Parasession on Language and Behavior_. Chicago Ling. Soc. 178–203.
+Ohala, J.J. (1981). {{% resource_link "b6d11f4e-801f-458b-ab2f-9e64e2b6c7eb" "The listener as a source of sound change (PDF - 1 MB)" %}}. In C. S. Masek, R. A. Hendrick, & M. F. Miller (eds.), _Papers from the Parasession on Language and Behavior_. Chicago Ling. Soc. 178–203.
 
-Pierrehumbert, J. (2001). [Exemplar dynamics: Word frequency, lenition, and contrast (PDF)](http://www.phon.ox.ac.uk/jpierrehumbert/publications/exemplar_dynamics.pdf). In J. Bybee and P. Hopper (eds.), _Frequency effects and the emergence of lexical structure_. John Benjamins. 137–157.
+Pierrehumbert, J. (2001). {{% resource_link "5d3ab4aa-beaa-4b6b-8d6f-90b7285dd6a1" "Exemplar dynamics: Word frequency, lenition, and contrast (PDF)" %}}. In J. Bybee and P. Hopper (eds.), _Frequency effects and the emergence of lexical structure_. John Benjamins. 137–157.
 
-Pintzuk, S. (1995). [Variation and change in Old English clause structure](https://doi.org/10.1017/S0954394500001009). _Language Variation and Change_ 7(2), 229–260.
+Pintzuk, S. (1995). {{% resource_link "2b2bf08c-df9d-4e16-8c8f-72c04f53e180" "Variation and change in Old English clause structure" %}}. _Language Variation and Change_ 7(2), 229–260.
 
 {{< tableopen >}}
 
